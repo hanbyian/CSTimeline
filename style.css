@@ -1,0 +1,30 @@
+.list-header{
+    color: darkviolet;
+    width: 80%;
+    margin-left: 10%;
+}
+a:visited{
+    color: darkorange;
+}
+li{
+    list-style-type: circle;
+    color: darkorange;
+    width: 80%;
+    margin-left: 10%;
+}
+footer{
+    color: blue;
+    text-align: center;
+}
+footer a{
+    text-decoration: underline;
+    color: blue;
+}
+body{
+    margin: 10px;
+    border: darkviolet 3px solid;
+}
+#welcomer{
+    padding-left: 10px;
+    color: darkviolet;
+}
